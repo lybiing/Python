@@ -3,4 +3,4 @@ def useful_tool():
 
 sea = 1000
 ocean = 10000
-useful_tool() 
+useful_tool()
